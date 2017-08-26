@@ -1,8 +1,8 @@
 (function ($, window, document) {
   var endpoints = {
     test: 'https://requestb.in/17y68fv1',
-    balance: 'http://bs/api/balance',
-    orders: 'http://bs/api/open_orders',
+    balance: 'https://bs.josephting.my/api/balance',
+    orders: 'https://bs.josephting.my/api/open_orders',
   };
 
   var key = '';
